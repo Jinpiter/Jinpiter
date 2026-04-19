@@ -28,5 +28,5 @@
 ### 📊 GitHub Stats
 
 | My GitHub Status | Top Languages |
-| :---: | :---: |
-| ![Stats](https://github-readme-stats.vercel.app/api?username=Jinpiter&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jinpiter&layout=compact&theme=radical) |
+| :---: |
+| ![Stats](https://github-readme-stats.vercel.app/api?username=Jinpiter&show_icons=true&theme=radical) |
