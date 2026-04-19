@@ -1,16 +1,32 @@
-## Hi there 👋
+## 👋 안녕하세요, Jinpiter입니다!
 
-<!--
-**Jinpiter/Jinpiter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> **"혁신과 창의성을 추구를 목표로 하는 개발자입니다."**
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| 분류 | 기술 스택 | 숙련도 및 상세 |
+| :--- | :------- | :--- |
+| **Languages** | ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | 주력 언어로 활용하며 데이터 구조에 익숙 |
+| **Frameworks** | ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) | REST API 설계 및 컴포넌트 기반 개발 경험 |
+| **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | DB 정규화 및 쿼리 최적화 경험 |
+
+---
+
+### 🎓 Education
+
+* **[동양미래대학교]** | [컴퓨터소프트웨어공학과] | *[2021.03] ~ [2027.03]*
+
+---
+
+### 🏆 Qualifications
+
+* **[SQLD]** | [한국데이터산업진흥원] | *[2024.09]*
+* **[ADsP]** | [한국데이터산업진흥원] | *[2024.12]*
+
+---
+
+### 📊 GitHub Stats
+
+| My GitHub Status | Top Languages |
+| :---: | :---: |
+| ![Stats](https://github-readme-stats.vercel.app/api?username=[Jinpiter]&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[Jinpiter]&layout=compact&theme=radical) |
